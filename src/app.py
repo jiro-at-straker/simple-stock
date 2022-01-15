@@ -6,7 +6,7 @@ from dateutil.relativedelta import relativedelta
 
 st.sidebar.title("Simple Stock")
 SYM = ["README","PFE","GOOGL","AAPL","MSFT","STG.AX"]
-menu = st.sidebar.selectbox("Select a campany",(SYM))
+menu = st.sidebar.selectbox("Select a company",(SYM))
 
 if menu != "README":
     #get data on this ticker

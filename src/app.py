@@ -166,7 +166,7 @@ else:
 
     The code snippets and files used on this page can be found in this Github repo, feel free to update the code or even add more features.
 
-    `git clone https://github.com/socketio/chat-example.git`
+    `git clone https://github.com/jiro-at-straker/simple-stock.git`
 
     Happy coding!
     '''
